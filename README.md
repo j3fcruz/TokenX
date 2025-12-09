@@ -41,6 +41,35 @@
 
 ---
 
+## 🖼 Screenshots
+
+**Main Window:**
+
+![Editor Screenshot](assets/screenshots/Main.png)
+
+**Master Password Dialog:**
+
+![Encryption Screenshot](assets/screenshots/Master_Password.png)
+
+**Master Password Entry:**
+
+![Status Bar Screenshot](assets/screenshots/Master_Password_Entry.png)
+
+**Lock Application Dialog:**
+
+![Status Bar Screenshot](assets/screenshots/Lock_Application.png)
+
+**Reset Vault Dialog:**
+
+![Status Bar Screenshot](assets/screenshots/Reset_Vault.png)
+
+**TOTP Generator Dialog:**
+
+![Status Bar Screenshot](assets/screenshots/TOTP_Generator.png)
+
+
+---
+
 ## 🚀 Quick Start
 
 ### Prerequisites
